@@ -1,0 +1,101 @@
+body{
+background-color: gray;
+}
+header{
+  width: 30%;
+  height: 100px;
+  background-color: red;
+}
+footer{
+  width: 30%;
+  height: 100px;
+  background-color: blue
+}
+#mario {
+  width: 140px;
+  height: 120px;
+  background-color: #00FFFF;
+  color: #A52A2A;
+}
+#imgeen{
+  width: 140px;
+  height: 120px;
+  background-color: #AFEEEE;
+}
+#huis{
+  width: 140px;
+  height: 120px;
+  background-color: #0000FF;
+  color: #A52A2A;
+}
+#imgtwee{
+  width: 140px;
+  height: 120px;
+  background-color: #00EFFF;
+}
+#auto{
+  width: 140px;
+  height: 120px;
+  background-color: #DC143C;
+  color: #A52A2A;
+}
+#imgdrie{
+  width: 140px;
+  height: 120px;
+  background-color: #E9947A;
+}
+#fiets{
+  width: 140px;
+  height: 120px;
+  background-color: #FA8072;
+  color: #A52A2A;
+}
+#imgvier{
+  width: 140px;
+  height: 120px;
+  background-color: #FFA07A;
+}
+#vakantie{
+  width: 140px;
+  height: 120px;
+  background-color: #FFD700;
+  color: #A52A2A;
+}
+#imgvijf{
+  width: 140px;
+  height: 120px;
+  background-color: #FFFACD;
+}
+#sport{
+  width: 140px;
+  height: 120px;
+  background-color: #FFFF00;
+  color: #A52A2A;
+}
+#imgzes{
+  width: 140px;
+  height: 120px;
+  background-color: #FFEFD5;
+}
+#eigentijd{
+  width: 140px;
+  height: 120px;
+  background-color: #008000;
+  color: #A52A2A;
+}
+#imgzeven{
+  width: 140px;
+  height: 120px;
+  background-color: #8FBC8F;
+}
+#TV{
+  width: 140px;
+  height: 120px;
+  background-color: #90EE90;
+  color: #A52A2A;
+  }
+#imgacht{
+  width: 140px;
+  height: 120px;
+  background-color: #7FFF00;
+}
